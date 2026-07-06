@@ -1,6 +1,5 @@
 # Hi, I'm Daniyal Javaid
-
-### Senior Android Engineer @ Bazaar Technologies
+### Staff Software Engineer @ Bazaar Technologies
 
 Kotlin | Jetpack Compose | Clean Architecture | KSP | Modularization
 

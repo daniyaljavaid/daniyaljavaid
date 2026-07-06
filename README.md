@@ -2,9 +2,9 @@
 
 ### Senior Android Engineer @ Bazaar Technologies
 
-Kotlin · Jetpack Compose · Clean Architecture · KSP · Modularization
+Kotlin | Jetpack Compose | Clean Architecture | KSP | Modularization
 
-I build production Android apps and open-source samples that teach modern Android patterns — theming, symbol processing, call adapters, and scalable module architecture.
+I build production Android apps and open-source samples that teach modern Android patterns - theming, symbol processing, call adapters, and scalable module architecture.
 
 ---
 
@@ -20,11 +20,11 @@ I build production Android apps and open-source samples that teach modern Androi
 
 | Project | What it shows | Tech |
 |---------|---------------|------|
-| **[ThemingInCompose](https://github.com/daniyaljavaid/ThemingInCompose)** ★ 18 | Pluggable, per-app theming for reusable feature modules via `CompositionLocal` | Compose, Multi-module |
-| **[RetrofitCallAdapter](https://github.com/daniyaljavaid/RetrofitCallAdapter)** ★ 9 | Custom Retrofit call adapter for clean network result handling | Kotlin, Retrofit |
-| **[KotlinSymbolProcessing](https://github.com/daniyaljavaid/KotlinSymbolProcessing)** | Hands-on KSP annotation processor sample | KSP, Kotlin |
-| **[AndroidCleanArch](https://github.com/daniyaljavaid/AndroidCleanArch)** | Clean Architecture reference structure for Android | MVVM, Clean Arch |
-| **[VersionCatalogMigrationScript](https://github.com/daniyaljavaid/VersionCatalogMigrationScript)** | Script to migrate a project to Gradle Version Catalogs | Gradle, Kotlin |
+| **[ThemingInCompose](https://github.com/daniyaljavaid/ThemingInCompose)** ![Stars](https://img.shields.io/github/stars/daniyaljavaid/ThemingInCompose?style=flat&label=Stars&color=yellow&labelColor=444) | Pluggable, per-app theming for reusable feature modules via `CompositionLocal` | Compose, Multi-module |
+| **[RetrofitCallAdapter](https://github.com/daniyaljavaid/RetrofitCallAdapter)** ![Stars](https://img.shields.io/github/stars/daniyaljavaid/RetrofitCallAdapter?style=flat&label=Stars&color=yellow&labelColor=444) | Custom Retrofit call adapter for clean network result handling | Kotlin, Retrofit |
+| **[KotlinSymbolProcessing](https://github.com/daniyaljavaid/KotlinSymbolProcessing)** ![Stars](https://img.shields.io/github/stars/daniyaljavaid/KotlinSymbolProcessing?style=flat&label=Stars&color=yellow&labelColor=444) | Hands-on KSP annotation processor sample | KSP, Kotlin |
+| **[AndroidCleanArch](https://github.com/daniyaljavaid/AndroidCleanArch)** ![Stars](https://img.shields.io/github/stars/daniyaljavaid/AndroidCleanArch?style=flat&label=Stars&color=yellow&labelColor=444) | Clean Architecture reference structure for Android | MVVM, Clean Arch |
+| **[VersionCatalogMigrationScript](https://github.com/daniyaljavaid/VersionCatalogMigrationScript)** ![Stars](https://img.shields.io/github/stars/daniyaljavaid/VersionCatalogMigrationScript?style=flat&label=Stars&color=yellow&labelColor=444) | Script to migrate a project to Gradle Version Catalogs | Gradle, Kotlin |
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi, I'm Daniyal Javaid 👋
+# Hi, I'm Daniyal Javaid
 
 ### Senior Android Engineer @ Bazaar Technologies
 
@@ -16,27 +16,19 @@ I build production Android apps and open-source samples that teach modern Androi
 
 ---
 
-## 🔨 Featured Projects
+## Featured Projects
 
 | Project | What it shows | Tech |
 |---------|---------------|------|
-| **[ThemingInCompose](https://github.com/daniyaljavaid/ThemingInCompose)** ⭐18 | Pluggable, per-app theming for reusable feature modules via `CompositionLocal` | Compose, Multi-module |
-| **[RetrofitCallAdapter](https://github.com/daniyaljavaid/RetrofitCallAdapter)** ⭐9 | Custom Retrofit call adapter for clean network result handling | Kotlin, Retrofit |
+| **[ThemingInCompose](https://github.com/daniyaljavaid/ThemingInCompose)** ★ 18 | Pluggable, per-app theming for reusable feature modules via `CompositionLocal` | Compose, Multi-module |
+| **[RetrofitCallAdapter](https://github.com/daniyaljavaid/RetrofitCallAdapter)** ★ 9 | Custom Retrofit call adapter for clean network result handling | Kotlin, Retrofit |
 | **[KotlinSymbolProcessing](https://github.com/daniyaljavaid/KotlinSymbolProcessing)** | Hands-on KSP annotation processor sample | KSP, Kotlin |
 | **[AndroidCleanArch](https://github.com/daniyaljavaid/AndroidCleanArch)** | Clean Architecture reference structure for Android | MVVM, Clean Arch |
 | **[VersionCatalogMigrationScript](https://github.com/daniyaljavaid/VersionCatalogMigrationScript)** | Script to migrate a project to Gradle Version Catalogs | Gradle, Kotlin |
 
 ---
 
-## 📈 GitHub Stats
-
-![Daniyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniyaljavaid&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyaljavaid&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🌐 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniyal-javaid)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/daniyaljavaid95)

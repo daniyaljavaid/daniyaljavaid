@@ -1,7 +1,8 @@
 # Hi, I'm Daniyal Javaid
+
 ### Staff Software Engineer @ Bazaar Technologies
 
-Kotlin | Jetpack Compose | Clean Architecture | KSP | Modularization
+Kotlin | Jetpack Compose | Clean Architecture | KMP | KSP | Modularization
 
 I build production Android apps and open-source samples that teach modern Android patterns - theming, symbol processing, call adapters, and scalable module architecture.
 
@@ -12,6 +13,12 @@ I build production Android apps and open-source samples that teach modern Androi
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+## About
+
+Staff Software Engineer with **8+ years** building production Android - currently at Bazaar Technologies, working across Android and backend on **EasyKhata** (5M+ downloads, 400K+ active users). Led our **Kotlin Multiplatform (KMP)** migration for shared Android/iOS business logic. Deep in **fintech**: secure transaction flows, certificate pinning, and compliance-grade delivery. Past work includes **Dubai Expo 2020** and **Dubai Culture** for UAE clients.
 
 ---
 

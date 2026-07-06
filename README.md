@@ -2,23 +2,26 @@
 
 ### Staff Software Engineer @ Bazaar Technologies
 
-Kotlin | Jetpack Compose | Clean Architecture | KMP | KSP | Modularization
+Backend + Android | Kotlin | Java | Spring Boot | Kafka | Jetpack Compose | KMP | Microservices
 
-I build production Android apps and open-source samples that teach modern Android patterns - theming, symbol processing, call adapters, and scalable module architecture.
+I build production systems end-to-end - Spring Boot microservices and event-driven backends, plus Android apps used by millions. I also publish open-source samples on modern Android patterns.
 
 ---
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
 ## About
 
-Staff Software Engineer with **8+ years** building production Android - currently at Bazaar Technologies, working across Android and backend on **EasyKhata** (5M+ downloads, 400K+ active users). Led our **Kotlin Multiplatform (KMP)** migration for shared Android/iOS business logic. Deep in **fintech**: secure transaction flows, certificate pinning, and compliance-grade delivery. Past work includes **Dubai Expo 2020** and **Dubai Culture** for UAE clients.
+Staff Software Engineer with **8+ years** across **backend and Android**. At Bazaar Technologies I design **Spring Boot microservices** for fintech (lending, payments, ledger) with **Kafka** event-driven flows, **clean architecture**, and **MySQL/PostgreSQL** - and ship Android used by millions via **EasyKhata** (5M+ downloads, 400K+ active users). Led our **Kotlin Multiplatform (KMP)** migration for shared Android/iOS business logic. Deep in **fintech**: secure transaction flows, certificate pinning, and compliance-grade delivery.
 
 ---
 

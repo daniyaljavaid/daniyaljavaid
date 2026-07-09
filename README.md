@@ -1,5 +1,7 @@
 # Hi, I'm Daniyal Javaid
 
+![Profile Views](https://komarev.com/ghpvc/?username=daniyaljavaid&label=Profile%20Views&color=0e75b6&style=flat)
+
 ### Staff Software Engineer @ Bazaar Technologies
 
 Backend + Android | Kotlin | Java | Spring Boot | Kafka | Jetpack Compose | KMP | Microservices
@@ -21,7 +23,7 @@ I build production systems end-to-end - Spring Boot microservices and event-driv
 
 ## About
 
-Staff Software Engineer with **8+ years** across **backend and Android**. At Bazaar Technologies I design **Spring Boot microservices** for fintech (lending, payments, ledger) with **Kafka** event-driven flows, **clean architecture**, and **MySQL/PostgreSQL** - and ship Android used by millions via **EasyKhata** (5M+ downloads, 400K+ active users). Led our **Kotlin Multiplatform (KMP)** migration for shared Android/iOS business logic. Deep in **fintech**: secure transaction flows, certificate pinning, and compliance-grade delivery.
+Staff Software Engineer with **8+ years** across **backend and Android**. At Bazaar Technologies I design **Spring Boot microservices** for fintech (lending, payments, ledger) with **Kafka** event-driven flows, **clean architecture**, and **MySQL/PostgreSQL** - and ship Android apps used by millions via **EasyKhata** (5M+ downloads, 400K+ active users). Led our **Kotlin Multiplatform (KMP)** migration for shared Android/iOS business logic. Deep in **fintech**: secure transaction flows, certificate pinning, and compliance-grade delivery.
 
 ---
 

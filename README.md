@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=daniyaljavaid&label=Profile%20Views&color=0e75b6&style=flat)
 
+![Daniyal Javaid — terminal profile](assets/terminal.svg)
+
 ### Staff Software Engineer @ Bazaar Technologies
 
 Backend + Android | Kotlin | Java | Spring Boot | Kafka | Jetpack Compose | KMP | Microservices

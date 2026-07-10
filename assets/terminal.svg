@@ -1,44 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="740" height="397" viewBox="0 0 740 397" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-<rect x="1" y="1" width="738" height="395" rx="14" fill="#1d2021" stroke="#3c3836" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="849" height="412" viewBox="0 0 849 412" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<rect x="1" y="1" width="847" height="410" rx="14" fill="#1d2021" stroke="#3c3836" stroke-width="1.5"/>
 <circle cx="22" cy="18" r="5" fill="#fb4934"/>
 <circle cx="40" cy="18" r="5" fill="#fabd2f"/>
 <circle cx="58" cy="18" r="5" fill="#b8bb26"/>
-<text x="22" y="58.0" font-size="10.0" fill="#a89984" xml:space="preserve">                      ··---:---++--·</text>
-<text x="22" y="69.6" font-size="10.0" fill="#a89984" xml:space="preserve">                 =aa+-:=*=s:·:..··:+=::</text>
-<text x="22" y="81.2" font-size="10.0" fill="#a89984" xml:space="preserve">              sdddk*·.   ·:      .:: :+-</text>
-<text x="22" y="92.8" font-size="10.0" fill="#a89984" xml:space="preserve">              #Os=:---*ohko***+==:. .··+:</text>
-<text x="22" y="104.4" font-size="10.0" fill="#a89984" xml:space="preserve">              oOosaO88$$$@8##OOOKh+·. :·-</text>
-<text x="22" y="116.0" font-size="10.0" fill="#a89984" xml:space="preserve">               k8@@@$$$$$@8##OOOO#d=:::·-·</text>
-<text x="22" y="127.6" font-size="10.0" fill="#a89984" xml:space="preserve">               b%#8@$$$$$@8%%8#OKdKh::=--·</text>
-<text x="22" y="139.2" font-size="10.0" fill="#a89984" xml:space="preserve">               odo%$@KacskO#da**sakdb-=+-</text>
-<text x="22" y="150.8" font-size="10.0" fill="#a89984" xml:space="preserve">               -hh$$Ok*=-s%8h+++*oab8h:-</text>
-<text x="22" y="162.4" font-size="10.0" fill="#a89984" xml:space="preserve">               +8#$$@%dbd%$8dhhahkkd#kcd:</text>
-<text x="22" y="174.0" font-size="10.0" fill="#a89984" xml:space="preserve">               =8#$$$$$@$$$%#KK#####Okc8=</text>
-<text x="22" y="185.6" font-size="10.0" fill="#a89984" xml:space="preserve">                d$$$$$%O8dbkkbdKO##OOaKb</text>
-<text x="22" y="197.2" font-size="10.0" fill="#a89984" xml:space="preserve">                =d$$$@hd8KaacokobOKKd+h-</text>
-<text x="22" y="208.8" font-size="10.0" fill="#a89984" xml:space="preserve">                  k$$#=k8Obbbkk*cbkkc</text>
-<text x="22" y="220.4" font-size="10.0" fill="#a89984" xml:space="preserve">                   d#%b@$#hohKOkoa*c·</text>
-<text x="22" y="232.0" font-size="10.0" fill="#a89984" xml:space="preserve">                   OKbhK#8OKbko++++k</text>
-<text x="22" y="243.6" font-size="10.0" fill="#a89984" xml:space="preserve">                   #$Oho++cs==:-*oOh</text>
-<text x="22" y="255.2" font-size="10.0" fill="#a89984" xml:space="preserve">                   8$$$@Oo***sohbd#o</text>
-<text x="22" y="266.8" font-size="10.0" fill="#a89984" xml:space="preserve">                :cK$$$@$$@dbbbddKK#b·</text>
-<text x="304" y="58.0" font-size="12.5" xml:space="preserve"><tspan fill="#a9b665" font-weight="bold">daniyal</tspan><tspan fill="#d4be98">@</tspan><tspan fill="#a9b665" font-weight="bold">javaid</tspan></text>
-<text x="304" y="73.6" font-size="12.5" fill="#5c6370" xml:space="preserve">------------------------------------------</text>
-<text x="304" y="89.2" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">OS</tspan> <tspan fill="#5c6370">....................</tspan> <tspan fill="#7daea3">macOS  Android 14  Linux</tspan></text>
-<text x="304" y="104.8" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Uptime</tspan> <tspan fill="#5c6370">................</tspan> <tspan fill="#7daea3">8+ years in production</tspan></text>
-<text x="304" y="120.4" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Host</tspan> <tspan fill="#5c6370">..................</tspan> <tspan fill="#7daea3">Bazaar Technologies</tspan></text>
-<text x="304" y="136.0" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Role</tspan> <tspan fill="#5c6370">..................</tspan> <tspan fill="#7daea3">Staff Software Engineer (Backend + Android)</tspan></text>
-<text x="304" y="151.6" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">IDE</tspan> <tspan fill="#5c6370">...................</tspan> <tspan fill="#7daea3">Android Studio  IntelliJ IDEA  VS Code</tspan></text>
-<text x="304" y="176.6" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Programming</tspan> <tspan fill="#5c6370">.</tspan> <tspan fill="#7daea3">Kotlin, Java, Python</tspan></text>
-<text x="304" y="192.2" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Backend</tspan> <tspan fill="#5c6370">.....</tspan> <tspan fill="#7daea3">Spring Boot, Kafka, Microservices</tspan></text>
-<text x="304" y="207.8" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Mobile</tspan> <tspan fill="#5c6370">......</tspan> <tspan fill="#7daea3">Jetpack Compose, KMP, Coroutines</tspan></text>
-<text x="304" y="223.4" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Data</tspan> <tspan fill="#5c6370">........</tspan> <tspan fill="#7daea3">MySQL, PostgreSQL, Room</tspan></text>
-<text x="304" y="239.0" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Real</tspan> <tspan fill="#5c6370">........</tspan> <tspan fill="#7daea3">Urdu (native), English (fluent)</tspan></text>
-<text x="304" y="263.9" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Focus.Domain</tspan> <tspan fill="#5c6370">..........</tspan> <tspan fill="#7daea3">Fintech  Payments  Ledger</tspan></text>
-<text x="304" y="279.5" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Focus.Scale</tspan> <tspan fill="#5c6370">...........</tspan> <tspan fill="#7daea3">EasyKhata 5M+ downloads / 400K+ users</tspan></text>
-<text x="304" y="301.4" font-size="12.5" xml:space="preserve"><tspan fill="#5c6370">-- </tspan><tspan fill="#7daea3" font-weight="bold">Contact</tspan><tspan fill="#5c6370"> ------------------------------</tspan></text>
-<text x="304" y="317.0" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Email</tspan> <tspan fill="#5c6370">.................</tspan> <tspan fill="#7daea3">daniyaljavaid95@gmail.com</tspan></text>
-<text x="304" y="332.6" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">LinkedIn</tspan> <tspan fill="#5c6370">..............</tspan> <tspan fill="#7daea3">in/daniyal-javaid</tspan></text>
-<text x="304" y="348.2" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">GitHub</tspan> <tspan fill="#5c6370">................</tspan> <tspan fill="#7daea3">daniyaljavaid</tspan></text>
-<text x="304" y="363.8" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">LeetCode</tspan> <tspan fill="#5c6370">..............</tspan> <tspan fill="#7daea3">daniyaljavaid95</tspan></text>
+<text x="22" y="58.0" font-size="10.0" fill="#a89984" xml:space="preserve">                        ···-==---=+-:·</text>
+<text x="22" y="69.6" font-size="10.0" fill="#a89984" xml:space="preserve">                    :+hk*-:=-*:·· ··-=--</text>
+<text x="22" y="81.2" font-size="10.0" fill="#a89984" xml:space="preserve">                   a8bo=·  -==··· .·:.·=+</text>
+<text x="22" y="92.8" font-size="10.0" fill="#a89984" xml:space="preserve">                   oO*=okb#%%#ddbkh*·.··=·</text>
+<text x="22" y="104.4" font-size="10.0" fill="#a89984" xml:space="preserve">                    b#%@$$$$$%88####o:::·-</text>
+<text x="22" y="116.0" font-size="10.0" fill="#a89984" xml:space="preserve">                    k@8%$$@@@8%%#OKKK*:=--</text>
+<text x="22" y="127.6" font-size="10.0" fill="#a89984" xml:space="preserve">                    skb$@ds*aO#ks*sabKc-+·</text>
+<text x="22" y="139.2" font-size="10.0" fill="#a89984" xml:space="preserve">                    =b#$8bc*o%8a*ccoh#d=+</text>
+<text x="22" y="150.8" font-size="10.0" fill="#a89984" xml:space="preserve">                    *%%$$$%%$$%KddKOO#doK</text>
+<text x="22" y="162.4" font-size="10.0" fill="#a89984" xml:space="preserve">                    ·#@$$$@%#OKKdO8###kbb</text>
+<text x="22" y="174.0" font-size="10.0" fill="#a89984" xml:space="preserve">                     o%$$@k##hoskhbOOOsk-</text>
+<text x="22" y="185.6" font-size="10.0" fill="#a89984" xml:space="preserve">                      :%$OcO#bbkbosbka.</text>
+<text x="22" y="197.2" font-size="10.0" fill="#a89984" xml:space="preserve">                       o##K$$bhdObosc+</text>
+<text x="22" y="208.8" font-size="10.0" fill="#a89984" xml:space="preserve">                       a%bakbKdas==*b+</text>
+<text x="22" y="220.4" font-size="10.0" fill="#a89984" xml:space="preserve">                       o$@Ok*=+=+cad#·</text>
+<text x="22" y="232.0" font-size="10.0" fill="#a89984" xml:space="preserve">                     ·*#$$$$%bhkbdKK#-</text>
+<text x="22" y="243.6" font-size="10.0" fill="#a89984" xml:space="preserve">                 :coo%$$$$@$$OdKKOO##Obs·.</text>
+<text x="22" y="255.2" font-size="10.0" fill="#a89984" xml:space="preserve">             -*sakhaok%$$$$$%KKOOOO#8%8o·-:·.</text>
+<text x="22" y="266.8" font-size="10.0" fill="#a89984" xml:space="preserve">         :+sahhaoocsscsd8$$$8OO##888#k- ··:::::·</text>
+<text x="22" y="278.4" font-size="10.0" fill="#a89984" xml:space="preserve">     ·+saass*++*c*oac*+++shbdKKOKbac-.·:·::·:::---:</text>
+<text x="22" y="290.0" font-size="10.0" fill="#a89984" xml:space="preserve">    odkasc=====+**cc=-:-:·::----:::·:--::::::::::--=-:</text>
+<text x="22" y="301.6" font-size="10.0" fill="#a89984" xml:space="preserve">  -ddoa-=----===+==----:::------------==::::::::::::--=:</text>
+<text x="22" y="313.2" font-size="10.0" fill="#a89984" xml:space="preserve"> ·dbh*c:·:---=----::::--:-::--==+*=-:-+*-::::::::-:::::--</text>
+<text x="22" y="324.8" font-size="10.0" fill="#a89984" xml:space="preserve"> cboa==-·:---=---:::---::::----=+c*-::+c-:-::::::=··::::-:</text>
+<text x="22" y="336.4" font-size="10.0" fill="#a89984" xml:space="preserve">·hasa=:+·::------::--:::::::---==*c=::-s+::::·:·:- ·:·:::-</text>
+<text x="22" y="348.0" font-size="10.0" fill="#a89984" xml:space="preserve">ooosss·=··:=--------:::-:::::--===+*:::*c·::::··:· :·::·::·</text>
+<text x="22" y="359.6" font-size="10.0" fill="#a89984" xml:space="preserve">bs·o=+ ::.·:--==---::::-:::·:---==++-:::c-··::··:.·:··:·: :</text>
+<text x="22" y="371.2" font-size="10.0" fill="#a89984" xml:space="preserve">bk ·c+=.:.·:--*+=----::::····:-====+=-:·-+:···:··..·.···  -.</text>
+<text x="22" y="382.8" font-size="10.0" fill="#a89984" xml:space="preserve">bb+ -c-···.·-*s++++--:::::····---==-=-:::::······ . ···. :::</text>
+<text x="413" y="58.0" font-size="12.5" xml:space="preserve"><tspan fill="#a9b665" font-weight="bold">daniyal</tspan><tspan fill="#d4be98">@</tspan><tspan fill="#a9b665" font-weight="bold">javaid</tspan></text>
+<text x="413" y="73.6" font-size="12.5" fill="#5c6370" xml:space="preserve">------------------------------------------</text>
+<text x="413" y="89.2" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">OS</tspan> <tspan fill="#5c6370">....................</tspan> <tspan fill="#7daea3">macOS  Android 14  Linux</tspan></text>
+<text x="413" y="104.8" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Uptime</tspan> <tspan fill="#5c6370">................</tspan> <tspan fill="#7daea3">8+ years in production</tspan></text>
+<text x="413" y="120.4" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Host</tspan> <tspan fill="#5c6370">..................</tspan> <tspan fill="#7daea3">Bazaar Technologies</tspan></text>
+<text x="413" y="136.0" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Role</tspan> <tspan fill="#5c6370">..................</tspan> <tspan fill="#7daea3">Staff Software Engineer (Backend + Android)</tspan></text>
+<text x="413" y="151.6" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">IDE</tspan> <tspan fill="#5c6370">...................</tspan> <tspan fill="#7daea3">Android Studio  IntelliJ IDEA  VS Code</tspan></text>
+<text x="413" y="176.6" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Programming</tspan> <tspan fill="#5c6370">.</tspan> <tspan fill="#7daea3">Kotlin, Java, Python</tspan></text>
+<text x="413" y="192.2" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Backend</tspan> <tspan fill="#5c6370">.....</tspan> <tspan fill="#7daea3">Spring Boot, Kafka, Microservices</tspan></text>
+<text x="413" y="207.8" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Mobile</tspan> <tspan fill="#5c6370">......</tspan> <tspan fill="#7daea3">Jetpack Compose, KMP, Coroutines</tspan></text>
+<text x="413" y="223.4" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Data</tspan> <tspan fill="#5c6370">........</tspan> <tspan fill="#7daea3">MySQL, PostgreSQL, Room</tspan></text>
+<text x="413" y="239.0" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Languages.Real</tspan> <tspan fill="#5c6370">........</tspan> <tspan fill="#7daea3">Urdu (native), English (fluent)</tspan></text>
+<text x="413" y="263.9" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Focus.Domain</tspan> <tspan fill="#5c6370">..........</tspan> <tspan fill="#7daea3">Fintech  Payments  Ledger</tspan></text>
+<text x="413" y="279.5" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Focus.Scale</tspan> <tspan fill="#5c6370">...........</tspan> <tspan fill="#7daea3">EasyKhata 5M+ downloads / 400K+ users</tspan></text>
+<text x="413" y="301.4" font-size="12.5" xml:space="preserve"><tspan fill="#5c6370">-- </tspan><tspan fill="#7daea3" font-weight="bold">Contact</tspan><tspan fill="#5c6370"> ------------------------------</tspan></text>
+<text x="413" y="317.0" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">Email</tspan> <tspan fill="#5c6370">.................</tspan> <tspan fill="#7daea3">daniyaljavaid95@gmail.com</tspan></text>
+<text x="413" y="332.6" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">LinkedIn</tspan> <tspan fill="#5c6370">..............</tspan> <tspan fill="#7daea3">in/daniyal-javaid</tspan></text>
+<text x="413" y="348.2" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">GitHub</tspan> <tspan fill="#5c6370">................</tspan> <tspan fill="#7daea3">daniyaljavaid</tspan></text>
+<text x="413" y="363.8" font-size="12.5" xml:space="preserve"><tspan fill="#d8a657">LeetCode</tspan> <tspan fill="#5c6370">..............</tspan> <tspan fill="#7daea3">daniyaljavaid95</tspan></text>
 </svg>
